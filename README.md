@@ -50,4 +50,14 @@
 </p>
 <br/>
 <h3 align="left"> Github Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tripathirajan&show_icons=true&locale=en&layout=compact" alt="tripathirajan" /></p>
+<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tripathirajan" alt="tripathirajan" />
+ <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=tripathirajan&show_icons=true&locale=en" alt="tripathirajan" />
+ <br/>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tripathirajan&show_icons=true&locale=en&layout=compact" alt="tripathirajan" />
+</p>
+
+
+<h3 align="left">Github Profile Trophy</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tripathirajan&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>
