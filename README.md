@@ -1,6 +1,11 @@
 <h1 align="left">Hi 👋, I'm Rajan Tripathi</h1>
 <h3 align="left"> 👨🏽‍🎓 I am a passionate software developer.</h3>
 
+
+<h2 align="left">Project(s)</h2>
+
+[@rjnapp/dyno-logging](https://www.npmjs.com/package/@rjnapp/dyno-logging)
+
 <h2 align="left"> I am working on</h2>
 <h3 align="left"> Frontend </h3>
 <p align="left">
